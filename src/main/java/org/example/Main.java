@@ -58,7 +58,7 @@ public class Main {
                     break;
                 }
             }
-            else System.out.println("Я не знаю что это значит");
+            else System.out.println("Я не знаю, что это значит");
         }
     }
 }
